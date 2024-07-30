@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Aaron and I am a full-stack developer working on creating interactive projects/games that help people be better storytellers. 
+
 <!--
 **smokeyblues/smokeyblues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
