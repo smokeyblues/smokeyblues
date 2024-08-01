@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-My name is Aaron and I am working on a storyteller's game--like Rocksmith for Filmmakers; a first-person shooter for visual storytellers. 
+My name is Aaron and I build serverless applications on AWS using [SST](https://sst.dev/). 
+
+I am currently working on a storytelling game. Kind of like [Rocksmith](https://www.ubisoft.com/en-us/game/rocksmith/plus) for Filmmakers and a [first-person shooter](https://store.steampowered.com/category/action_fps/) for visual cinematographers. 
+
+I am also available to help you with your projects. Feel free to reach out. 
 
 <!--
 **smokeyblues/smokeyblues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
