@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-My name is Aaron and I build serverless applications on AWS using [SST](https://sst.dev/). 
-
-I am currently working on a storytelling game. Kind of like [Rocksmith](https://www.ubisoft.com/en-us/game/rocksmith/plus) for Filmmakers and a [first-person shooter](https://store.steampowered.com/category/action_fps/) for visual cinematographers. If you would like to learn more please sign up for the [mailing list](https://www.indiegogo.com/projects/nanowrit-labs-the-storyteller-s-laboratory/coming_soon).
-
-I am also available to help you with your projects. Feel free to reach out. 
+I am an experienced full-stack developer with a proven track record of building prototypes and deploying functional web applications within a startup environment. Proficient in TypeScript, Python, JavaScript, SQL/NoSQL, and web development technologies. Eager to leverage my skills and collaborate on challenging projects at a leading tech company.
 
 <!--
 **smokeyblues/smokeyblues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
